@@ -7,11 +7,14 @@
 
 # Steps for reproducing the account linking:
 ## Fill the Account linking section in Actions on google
-illustrations will follow
+![](account_creation_section.PNG?raw=true)
+![](linking_type_section.PNG?raw=true)
+![](client_information_section.PNG?raw=true)
+![](client_configuration_section.PNG?raw=true)
 
 ## Copy dialogflow conversation to your own action
 Copy the conversation zip file from this repo to Dialogflow from the following window:
-illustrations will follow
+![](import or export a zip file.PNG?raw=true)
 
 _Optionally, you can recreate your own intents and entities in Dialogflow if you want customised behaviour_
 ## Access the Bytel API with some https requests
